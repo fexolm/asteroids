@@ -1,0 +1,1 @@
+// this file is needed to create empty library in cmake
